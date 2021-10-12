@@ -7,7 +7,6 @@
 
 # 参考サイト
 - [Google Homeに話しかけてドローンを音声操作してみる](https://qiita.com/miso_develop/items/a482dc4d168ec0a33818)
-- [https://qiita.com/miso_develop/items/a482dc4d168ec0a33818](https://qiita.com/miso_develop/items/a482dc4d168ec0a33818)
 <p></p>
 
 # Tello 制御のための設定
