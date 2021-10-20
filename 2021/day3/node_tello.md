@@ -11,7 +11,7 @@
 # Tello 制御のための設定
 ## ディレクトリ作成
 ```
-$ mkdir Tello && cd &_
+$ mkdir Tello && cd $_
 $ mkdir node_tello && cd $_
 $ nodenv local 16.10.0
 ```
