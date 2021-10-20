@@ -11,7 +11,7 @@
 `$ uname -a`
 <p></p>
 
-`Linux raspberrypi 4.19.97-v7l+ #1294 SMP Mon Jan 30 13:21:14 GMT 2020 armv7l GNU/Linux`
+`Linux raspberrypi 5.10.17-v7l+ #1414 SMP Fri Apr 30 13:20:47 BST 2021 armv7l GNU/Linux`
 <p></p>
 
 # anyenv
