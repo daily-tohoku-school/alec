@@ -4,7 +4,6 @@
 <p></p>
 
 # GPIO とは
-
 <center><img src="./img/GPIO.png" width="500px"></center>
 <p></p>
 
@@ -53,5 +52,27 @@ $ pinout
 <p></p>
 
 <center><img src="./img/ラズベリーパイ実習_配布用.048.jpeg" width="420px"></center>
+<p></p>
+<div style="page-break-before:always"></div>
+
+# Scratch3 の拡張機能で L チカ
+- Scratch3 を起動し、拡張機能のボタンをクリック
+<p></p>
+
+<center><img src="./img/scratch01.png" width="420px"></center>
+<p></p>
+
+- Raspberry Pi GPIO を選択
+<p></p>
+
+<center><img src="./img/scratch02.png" width="420px"></center>
+<p></p>
+<div style="page-break-before:always"></div>
+
+- プログラミング
+- サンプルはこちら LED_Scratch3.sb3
+<p></p>
+
+<center><img src="./img/scratch03.png" width="420px"></center>
 <p></p>
 <div style="page-break-before:always"></div>
