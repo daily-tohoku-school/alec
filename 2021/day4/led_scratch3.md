@@ -70,7 +70,7 @@ $ pinout
 <div style="page-break-before:always"></div>
 
 - プログラミング
-- サンプルはこちら LED_Scratch3.sb3
+- サンプル [LED_Scratch3.sb3](https://github.com/daily-tohoku-school/alec/blob/main/2021/day4/LED_Scratch3.sb3?raw=true)
 <p></p>
 
 <center><img src="./img/scratch03.png" width="420px"></center>
